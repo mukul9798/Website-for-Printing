@@ -1,0 +1,70 @@
+Cloud Computing
+
+def - to provide Computing sevices online come under cloud .
+example - server,storage using online centres and paying for it and geting acess from anywhere.
+
+WHY WE USE CLOD 
+
+> security
+> flexibilty
+> scalebility
+> reliablity
+> back up
+> remote service
+
+Models of Cloud
+
+iaas - infrastructure as a sevice   
+saas  - software as a service
+paas - platform as a service
+faas - function as a service
+
+Iaas - infrastructure as a service
+
+> physichal storage (ram)
+
+paas - platform as a service
+
+> data centres
+
+saas  - software as a service
+
+> google drive , i cloud
+
+faas - function as a service
+
+> user friendly
+
+consumption base model 
+     2 types
+1. capex - capital expenditures
+2. opex - operational expenditures
+
+1. capex - capital expenditures - (purchasing expeditures)
+2. opex - operational expenditures - (renting)
+
+storage 99.9 percent 
+
+(SLA) Service Level Agreement
+ The Agreement between consumer and providers
+99.9%
+service will down to 1.6 hrs per week & 7.2 hrs per months.
+
+
+https://github.com/thebugbounter/preet-watches.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
